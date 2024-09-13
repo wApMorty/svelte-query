@@ -90,4 +90,4 @@ In the example below, you can see Svelte Query in its most basic and simple form
 
 ## You talked me into it, so what now?
 
-- Learn Svelte Query at your own pace with our amazingly thorough [Walkthough Guide](../installation) and [API Reference](../reference/useQuery)
+- Learn Svelte Query at your own pace with our amazingly thorough [Walkthrough Guide](../installation) and [API Reference](../reference/useQuery)
